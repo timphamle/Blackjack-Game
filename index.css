@@ -5,6 +5,12 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
 }
 
 h1 {
